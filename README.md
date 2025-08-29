@@ -2,7 +2,17 @@
 
 > Please remember those who treat you well, because they could have been different  
 > 请记得那些对你好的人，因为他本可以不这样
->
+
+### 🛠️ 仓库链接
+- [gy216.github.io](https://github.com/gy216/gy216.github.io)
+> 工作室网页托管
+- [PythonCode](https://github.com/gy216/PythonCode)
+> Python写的代码
+- [yinqingku](https://github.com/gy216/yinqingku)
+> 为HBC写的引擎库
+- [lllji](https://github.com/gy216/lllji)
+> 为刷浏览量写的
+
 ### 📜 工作室
 - 果园工作室
 
