@@ -49,6 +49,11 @@
 - **2025**  
   - 注册并使用Cloudflare托管个人域名
   - 对表妹的冷漠行为不满，抑郁加重
+
+
+- **2026**  
+  - 注册新域名gybc.top
+  - 对某位同学的行为感到不满
   - 继续前行...
 
 ### 🎮 游戏 & 兴趣
@@ -76,4 +81,4 @@
 > 感谢您花时间阅读我的自我介绍！
 ---
 
-Copyright © 2025 果园编程. All Rights Reserved.  
+Copyright © 2026 果园编程，Gandi Chang. All Rights Reserved.  
