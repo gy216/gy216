@@ -9,29 +9,31 @@
 </p>
 
 <h1 align="center">👋 Hi, I'm 果园 (Gandi Chang)</h1>
-<h3 align="center">🍎 初中生 · 独立开发者 · 果园工作室 创始人</h3>
+<h3 align="center">🍎 学生 · 独立开发者 · 果园工作室 创始人<br/>（Student, Independent Developer and Founder of Orchard Studio）</h3>
 
 <p align="center">
   <a href="https://gy216.github.io">
-    <img src="https://img.shields.io/badge/🌐%20Website-gy216.github.io-2D2D2D?style=for-the-badge&logo=githubpages&logoColor=white"/>
+    <img src="https://img.shields.io/badge/🌐%20网站（website)-gy216.github.io-2D2D2D?style=for-the-badge&logo=githubpages&logoColor=white"/>
   </a>
   &nbsp;
   <a href="https://gybc.top">
-    <img src="https://img.shields.io/badge/Domain-gybc.top-00C7B7?style=for-the-badge&logo=cloudflare&logoColor=white"/>
+    <img src="https://img.shields.io/badge/域名（新的网站）-gybc.top-00C7B7?style=for-the-badge&logo=cloudflare&logoColor=white"/>
   </a>
   &nbsp;
   <img src="https://img.shields.io/badge/📍%20Yangzhou,%20Jiangsu-China-orange?style=for-the-badge"/>
   &nbsp;
-  <img src="https://img.shields.io/badge/ADHD%20Thinker-Creative%20%26%20Hyperfocus-9cf?style=for-the-badge"/>
+     <a href="https://add.org/">
+ <img src="https://img.shields.io/badge/ADHD患者%20-Creative%20%26%20Hyperfocus-9cf?style=for-the-badge"/>
 </p>
 
+
 <p align="center">
-  <i>💬 "永远相信美好的事情即将发生 · Always believe that beautiful things are about to happen"</i>
+  <i>💬 "永远相信美好的事情即将发生<br/>Always believe that beautiful things are about to happen"</i>
 </p>
 
 ---
 
-## 🧰 Tech Stack
+## 🧰 Tech Stack（技术栈）
 
 <p align="center">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/>
@@ -46,7 +48,7 @@
 
 ---
 
-## ⭐ Featured Projects
+## ⭐ Featured Projects（特色项目）
 
 <!-- 每一张都是动态 Repo Pin Card —— star/fork/lang 自动同步 -->
 <!-- 如果某个仓库是私有的，pin card 会 404，那就换用下面的 badge 行代替 -->
@@ -56,7 +58,7 @@
     <td width="50%" align="center">
       <h3>🌐 gy216.github.io</h3>
       <p><b>工作室网页托管 · 个人站点</b></p>
-      <p><i>HTML / CSS / JS · GitHub Pages</i></p>
+      <p><i>HTML / CSS / JS · GitHub Pages/Action</i></p>
       <!-- Pin Card（好看，但要求仓库是 public） -->
       <a href="https://github.com/gy216/gy216.github.io">
         <img src="https://github-readme-stats.vercel.app/api/pin/?username=gy216&repo=gy216.github.io&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&icon_color=58a6ff" />
@@ -82,7 +84,7 @@
     <td width="50%" align="center">
       <h3>⚙️ yinqingku</h3>
       <p><b>为 HBC 写的引擎库</b></p>
-      <p><i>Python · Engine Architecture</i></p>
+      <p><i>Python</i></p>
       <a href="https://github.com/gy216/yinqingku">
         <img src="https://github-readme-stats.vercel.app/api/pin/?username=gy216&repo=yinqingku&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&icon_color=58a6ff" />
       </a>
@@ -93,7 +95,7 @@
     <td width="50%" align="center">
       <h3>📈 lllji</h3>
       <p><b>为刷浏览量写的</b></p>
-      <p><i>Utility · Automation</i></p>
+      <p><i>Python</i></p>
       <a href="https://github.com/gy216/lllji">
         <img src="https://github-readme-stats.vercel.app/api/pin/?username=gy216&repo=lllji&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&icon_color=58a6ff" />
       </a>
@@ -112,7 +114,7 @@
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Stats（GitHub统计数据）
 
 <p align="center">
   <img height="165" src="https://github-readme-stats.vercel.app/api?username=gy216&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&icon_color=58a6ff&count_private=true&include_all_commits=true&line_height=28" />
@@ -125,10 +127,6 @@
 </p>
 
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/gy216/gy216/output/github-contribution-grid-snake-dark.svg" alt="snake animation"/>
-</p>
----
 
 ## 📜 My Journey
 
