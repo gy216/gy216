@@ -124,12 +124,10 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=gy216&theme=tokyonight&hide_border=true&background=0d1117&stroke=58a6ff&ring=58a6ff&fire=fc6&currStreakLabel=c9d1d9" />
 </p>
 
-<!-- 可选：贡献贪吃蛇
+
 <p align="center">
   <img src="https://raw.githubusercontent.com/gy216/gy216/output/github-contribution-grid-snake-dark.svg" alt="snake animation"/>
 </p>
--->
-
 ---
 
 ## 📜 My Journey
@@ -148,11 +146,14 @@
 ---
 
 ## 🎮 Interests
-🎯 主线：做有趣的游戏 + 写能跑的代码
-📦 副线：果园工作室 → 可持续的独立创作空间
-🧪 实验：Python 引擎库 / 前端小工具 / 奇奇怪怪的自动化
-🎮 最爱游戏：Minecraft | ⏳ 最期待：黑神话：悟空
----
+
+| 分类 | 内容 |
+|:----:|------|
+| 🎯 **主线** | 做有趣的游戏 + 写能跑的代码 |
+| 📦 **副线** | 果园工作室 → 可持续的独立创作空间 |
+| 🧪 **实验** | Python 引擎库 / 前端小工具 / 奇奇怪怪的自动化 |
+| 🎮 **最爱游戏** | **Minecraft** |
+| ⏳ **最期待** | **黑神话：悟空** |
 
 ## 📫 Find Me
 
