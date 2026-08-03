@@ -134,8 +134,9 @@
 
 | 姓名-Person | 平台-Platform |
 |:------:|:------:|
-| P：Linus Torvalds(莱纳斯·托沃兹) | [Github](https://github.com/torvalds) |
+| P：Linus Torvalds(林纳斯·托沃兹) | [Github](https://github.com/torvalds) |
 | P：Tim Pan（潘天鸿） | [Website](https://www.ysjf.com/home) |
+| P：Lei Jun（雷军） | [Website](https://www.mi.com) |
 | P：Elon Musk（埃隆·马斯克） | [Website](https://x.com) |
 | F：上古米歇尔 | [Github](https://github.com/GY-GZW) |
 | F：南翔 | [Github](https://github.com/gynanxiang) |
