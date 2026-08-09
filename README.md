@@ -144,7 +144,7 @@
 | F：Iwandes | [Github](https://github.com/Iwandes) |
 | F：奥利给 | [Github](https://github.com/algfwq) |
 | F：和泉朋花 | [Github](https://github.com/anzhuo114514) |
-| C：不告诉你 | 嘿嘿~ |
+| C：不告诉你（I won't tell you） | 嘿嘿~ （Snickers）|
 
 ## 📜 My Journey（人生旅途）
 
